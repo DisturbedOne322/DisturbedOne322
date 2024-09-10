@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yaroslav</h1>
-<h3 align="center">Unity Developer with 2 years of experience. I specialize in programming and tool creation. Published a vehicle physics package on the Unity Asset Store. Published a complete 2D Horror game.
+<h3 align="left">Unity Developer with 2 years of experience. I specialize in programming and tool creation. Published a vehicle physics package on the Unity Asset Store. Published a complete 2D Horror game.</h3>
 
-Always eager to learn something new, striving to grow as a developer. Keen on learning new technologies and coding styles that help make better projects.</h3>
+<h2 align = "left">
+Always eager to learn something new, striving to grow as a developer. Keen on learning new technologies and coding styles that help make better projects.</h2>
 
 - 🔭 I’m currently working on [Custom Vehicle Controller](https://assetstore.unity.com/packages/tools/physics/custom-vehicle-controller-278027)
 
